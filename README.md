@@ -1,13 +1,39 @@
 <h1 align="center">Hi 👋, I'm Cesar Vasquez</h1>
-<h3 align="center">Systems Engineer, Specialist in Computer Project Management and Systematization and data management from Colombia</h3>
+<h3 align="center">Systems Engineer | Data Analyst & Data Engineer 🚀</h3>
 
-- 👋 Hi, I’m @ingenierocvasquez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Specialist-Project%20Management-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Colombia-yellow?style=for-the-badge">
+</p>
 
-<!---
-ingenierocvasquez/ingenierocvasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 Sobre mí
+Soy Ingeniero de Sistemas Especialista en Gerencia de Proyectos Informáticos. Actualmente, enfoco mi carrera hacia la **Ingeniería y Análisis de Datos**, transformando grandes volúmenes de información en decisiones estratégicas.
+
+- 🔭 **Proyectos Actuales:** Desarrollo de scrapers avanzados para la extracción de datos de **SUIN-Juriscol** y **SNIES** (Colombia), implementando arquitecturas ETL robustas.
+- 🌱 **Aprendizaje Continuo:** Completando el **Certificado Profesional de Google Data Analytics** en Coursera.
+- ⚡ **Enfoque Técnico:** Optimización de procesos mediante Python (Pandas/Polars) y modelado de datos en PostgreSQL y SQLite.
+
+### 🛠️ Stack Tecnológico
+- **Lenguajes:** Python (Data Processing), SQL (PostgreSQL, SQLite, MySQL).
+- **Data Tools:** Pandas, Polars, Power BI, Excel Avanzado (Power Query/DAX).
+- **Web Scraping:** Scrapy, Selenium, integración de APIs.
+- **Frameworks & CMS:** Drupal 10 (Arquitectura y Backend), AppSheet.
+- **Entornos:** DDEV, Docker, Linux (Zorin OS), Git.
+
+### 📊 Mis Proyectos Destacados
+* **ETL Juriscol:** Automatización de extracción y limpieza de datos jurídicos colombianos con logs de hallazgos.
+* **Gestión de EPP:** Aplicación integral construida en AppSheet para la gestión de equipos de protección personal.
+* **Data Analysis SNIES:** Scraping y análisis del Sistema Nacional de Información de la Educación Superior.
+
+### 📫 Contacto
+- **GitHub:** [@ingenierocvasquez](https://github.com/ingenierocvasquez)
+- **Web Personal:** [ingenierocvasquez.com](https://ingenierocvasquez.com)
+- **Intereses adicionales:** Filosofía Shu Ha Ri ⛩️ y tecnología de teclados mecánicos.
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ingenierocvasquez&show_icons=true&theme=radical" alt="Cesar's GitHub Stats" />
+</p>
