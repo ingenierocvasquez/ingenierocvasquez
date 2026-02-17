@@ -35,5 +35,5 @@ Soy Ingeniero de Sistemas Especialista en Gerencia de Proyectos Informáticos. A
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingenierocvasquez&show_icons=true&theme=radical" alt="Cesar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ingenierocvasquez&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Cesar's GitHub Stats" />
 </p>
