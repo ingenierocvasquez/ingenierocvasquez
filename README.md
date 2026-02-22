@@ -31,7 +31,7 @@ Soy Ingeniero de Sistemas Especialista en Gerencia de Proyectos Informáticos. A
 ### 📫 Contacto
 - **GitHub:** [@ingenierocvasquez](https://github.com/ingenierocvasquez)
 - **Web Personal:** [ingenierocvasquez.com](https://ingenierocvasquez.com)
-- **Intereses adicionales:** Filosofía Shu Ha Ri ⛩️ y tecnología de teclados mecánicos.
+- **Intereses adicionales:** Agile ⛩️ y tecnología Web.
 
 ---
 <p align="center">
